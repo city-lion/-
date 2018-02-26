@@ -1,0 +1,63 @@
+# -
+各类软件常用快捷键
+新建 Ctrl+N
+打开 Ctrl+O
+在Bridge中浏览 Alt+Ctrl+O
+关闭 Ctrl+W
+保存 Ctrl+S
+另存为 Shift+Ctrl+S
+在浏览器中预览 F12
+链接 Shift+F8
+退出 Ctrl+Q
+
+撤销 Ctrl+Z
+重做 Ctrl+Y
+剪切 Ctrl+X
+拷贝 Ctrl+C
+粘贴 Ctrl+V
+选择性粘贴 Ctrl+Shift+V
+全选 Ctrl+A
+选择父标签 Ctrl+[
+选择子标签 Ctrl+]
+查找和替换 Ctrl+F
+查找所选 Shift+F3
+查找下一个 F3
+转到行 Ctrl+G
+显示代码提示 Ctrl+H
+刷新代码提示 Ctrl+.
+缩进代码 Shift+Ctrl+>
+凸出代码 Shift+Ctrl+<
+平衡大括弧 Ctrl+'
+
+切换视图 Ctrl+Alt+`
+刷新设计视图 F5
+实时试图 Alt+F11
+检查 Alt+Shift+F11
+放大 Ctrl+=
+缩小 Ctrl+-
+按不同比例显示 Ctrl+Alt+数字
+显示标尺 Ctrl+Alt+R
+显示网格 Ctrl+Alt+G
+
+标签 Ctrl+E
+插入图像 Ctrl+Alt+I
+命名锚机 Ctrl+Alt+A
+换行符 Shift+Enter
+不换行空格 Ctrl+Shift+空格
+
+页面属性 Ctrl+J
+CSS样式 Shift+F11
+快速标签编辑器 Ctrl+T
+
+缩进 Ctrl+Alt+]
+凸出 Ctrl+Alt+[
+段落 Ctrl+Shift+P
+标题 Ctrl+数字
+左对齐 Ctrl+Alt+Shift+L
+居中对齐 Ctrl+Alt+Shift+C
+右对齐 Ctrl+Alt+Shift+R
+两端对齐 Ctrl+Alt+Shift+J
+粗体 Ctrl+B
+斜体 Ctrl+I
+
+检查拼写 Shift+F7
